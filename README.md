@@ -1,16 +1,17 @@
-### Hi there 👋
+# João Paulo Nascimento <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
 
-<!--
-**Joao0028/Joao0028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex">
+<img src = "https://komarev.com/ghpvc/?username=Joao0028&label=Profile%20views&color=brightgreen" alt="Joao0028"  style="float:right, margin-right:10px"/>
+<img src="https://img.shields.io/github/followers/Joao0028?label=Follow&color=brightgreen" alt="Joao0028" style="float:left" />
+</div>
 
-Here are some ideas to get you started:
+## Olá! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> Seja bem-vindo ao meu perfil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+texto
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao0028&show_icons=true&count_private=true&locale=pt-BR" alt="Joao0028" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0028&layout=compact&langs_count=7&count_private=true&locale=pt-BR" alt="Joao0028" />
+</div>
+
+![Snake animation](https://github.com/Joao0028/Joao0028/blob/output/github-contribution-grid-snake.svg)
