@@ -1,4 +1,4 @@
-# João Paulo Nascimento <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
+# João Paulo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
 
 <div style="display: flex">
 <img src = "https://komarev.com/ghpvc/?username=Joao0028&label=Profile%20views&color=brightgreen" alt="Joao0028"  style="float:right, margin-right:10px"/>
