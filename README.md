@@ -6,7 +6,8 @@
 </div>
 
 ## Olá! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> Seja bem-vindo ao meu perfil
-
+- Meu nome é João, tenho 17 anos e sou um programador front-end em desenvolvimento...
+- Sou apaixonado por Technologia!
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao0028&show_icons=true&count_private=true&locale=pt-BR&theme=dark" alt="Joao0028" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0028&layout=compact&langs_count=7&count_private=true&locale=pt-BR&theme=dark" alt="Joao0028" />
