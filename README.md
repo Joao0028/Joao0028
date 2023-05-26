@@ -1,9 +1,6 @@
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006256&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffb300&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+João+Paulo+:%29;+Seja+bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fead26&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+João+Paulo+:%29;+Seja+bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
 
  ![texto](https://raw.githubusercontent.com/cunham4theus/portfoliov3/main/assets/Img/ezgif.com-gif-maker.gif) 
 
@@ -21,13 +18,9 @@
 
 
 <div align="center"> 
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao0028&show_icons=true&count_private=true&locale=pt-BR&theme=dark" alt="Joao0028" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0028&layout=compact&langs_count=7&count_private=true&locale=pt-BR&theme=dark" alt="Joao0028" />
-
-<div style="display: flex">
-<img src = "https://komarev.com/ghpvc/?username=Joao0028&label=Profile%20views&color=brightgreen" alt="Joao0028"  style="float:right, margin-right:10px"/>
-<img src="https://img.shields.io/github/followers/Joao0028?label=Follow&color=brightgreen" alt="Joao0028" style="float:left" />
-</div>
 
 </div>
 </div>
