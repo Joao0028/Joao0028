@@ -19,8 +19,8 @@
 
 <div align="center"> 
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao0028&show_icons=true&count_private=true&locale=pt-BR&theme=dark" alt="Joao0028" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0028&layout=compact&langs_count=7&count_private=true&locale=pt-BR&theme=dark" alt="Joao0028" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao0028&show_icons=true&count_private=true&locale=pt-BR&theme=merko" alt="Joao0028" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao0028&layout=compact&langs_count=7&count_private=true&locale=pt-BR&theme=merko" alt="Joao0028" />
 
 </div>
 </div>
