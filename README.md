@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006256&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da3754&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+João+Paulo+:%29;+Seja+bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f7f7&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+João+Paulo+:%29;+Seja+bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
 
  ![texto](https://raw.githubusercontent.com/cunham4theus/portfoliov3/main/assets/Img/ezgif.com-gif-maker.gif) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f7f7&size=25&center=true&vCenter=true&width=1000&lines=Tenho+17+anos+e+sou+um+programador+front-end+em+desenvolvimento...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f7f7&size=27&center=true&vCenter=true&width=1000&lines=Tenho+17+anos+e+sou+um+programador+front-end+em+desenvolvimento...)](https://git.io/typing-svg)
 
 <div align="center">
 
