@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005bc5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=005bc5&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+João+Paulo+:%29;+Seja+bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=238636&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+João+Paulo+:%29;+Seja+bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
 
  ![texto](https://raw.githubusercontent.com/cunham4theus/portfoliov3/main/assets/Img/ezgif.com-gif-maker.gif) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9d007a&size=25&center=true&vCenter=true&width=1000&lines=Tenho+17+anos+e+sou+um+programador+front-end+em+desenvolvimento...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=238636&size=30&center=true&vCenter=true&width=1000&lines=Sou+um+programador+front-end+em+desenvolvimento...)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=005bc5&size=35&center=true&vCenter=true&width=1000&lines=Sou+apaixonado+por+tecnologia!+💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=238636&size=30&center=true&vCenter=true&width=1000&lines=Sou+apaixonado+por+tecnologia!+💚)](https://git.io/typing-svg)
 
 
 <div align="center"> 
@@ -55,4 +55,4 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-nascimento-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005bc5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=120&section=footer"/>
