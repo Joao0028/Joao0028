@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006256&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f7f7&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+João+Paulo+:%29;+Seja+bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006256&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+João+Paulo+:%29;+Seja+bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
 
  ![texto](https://raw.githubusercontent.com/cunham4theus/portfoliov3/main/assets/Img/ezgif.com-gif-maker.gif) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f7f7&size=27&center=true&vCenter=true&width=1000&lines=Tenho+17+anos+e+sou+um+programador+front-end+em+desenvolvimento...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006256&size=27&center=true&vCenter=true&width=1000&lines=Tenho+17+anos+e+sou+um+programador+front-end+em+desenvolvimento...)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 </div>
 
 <div> 
-  <h1> Minhas skills: </h1>
+  <h2> Minhas skills: </h2>
   <img width="11.3%" object-fit="cover" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;  
   <img width="9.8%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
   <img width="16.4%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
@@ -39,7 +39,7 @@
  
 
 <div> 
- <h1> No momento estou estudando: </h1>
+ <h2> No momento estou estudando: </h2>
   <img width="11.5%" src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117">&nbsp;
   <img width="9.8%" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">&nbsp; 
   <img width="12.4%" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp; 
@@ -50,7 +50,7 @@
  
 
 <div> 
-  <h1>Me encontre em:</h1>
+  <h2>Me encontre em:</h2>
   <a href="https://instagram.com/dev.motivado_br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-nascimento-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
