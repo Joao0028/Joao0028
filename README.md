@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b818c&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc018&size=30&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+João+Paulo+:%29;+Seja+bem-vindo+ao+meu+perfil!+👋)](https://git.io/typing-svg)
 
@@ -55,4 +55,4 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-nascimento-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b818c&height=120&section=footer"/>
