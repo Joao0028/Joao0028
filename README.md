@@ -4,7 +4,7 @@
 
  ![texto](https://raw.githubusercontent.com/cunham4theus/portfoliov3/main/assets/Img/ezgif.com-gif-maker.gif) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6546b&size=30&center=true&vCenter=true&width=1000&lines=Sou+um+programador+front-end+em+desenvolvimento...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0841&size=30&center=true&vCenter=true&width=1000&lines=Sou+um+programador+front-end+em+desenvolvimento...)](https://git.io/typing-svg)
 
 <div align="center">
 
