@@ -9,8 +9,6 @@
 ```
 Meu nome é João Paulo, tenho 17 anos. 🇧🇷
 
-Em breve pretendo cursar Análise e desenvolvimento de sistemas.
-
 Sou um desenvolvedor web front end, e atualmente tenho me dedicado a me tornar um programador cada vez mais 
 experiente e capacitado para atender as demandas do mercado com maestria, para isso estou sempre me atualizando 
 fazendo cursos de programação e pesquisando assuntos relacionadas a tecnologia em paralelo.
