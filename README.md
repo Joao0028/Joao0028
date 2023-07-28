@@ -11,7 +11,7 @@ Meu nome é João Paulo, tenho 17 anos. 🇧🇷
 
 Sou um desenvolvedor web front end, e atualmente tenho me dedicado a me tornar um programador cada vez mais 
 experiente e capacitado para atender as demandas do mercado com maestria, para isso estou sempre me atualizando 
-fazendo cursos de programação e pesquisando assuntos relacionadas a tecnologia em paralelo.
+fazendo cursos de programação e pesquisando assuntos relacionadas a tecnologia em paralelo...
 ```
  ![texto](https://raw.githubusercontent.com/cunham4theus/portfoliov3/main/assets/Img/ezgif.com-gif-maker.gif) 
 
