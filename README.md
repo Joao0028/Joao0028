@@ -13,7 +13,7 @@ Sou um desenvolvedor web front end, e atualmente tenho me dedicado a me tornar u
 experiente e capacitado para atender as demandas do mercado com maestria, para isso estou sempre me atualizando 
 fazendo cursos de programação e pesquisando assuntos relacionadas a tecnologia em paralelo...
 ```
- ![texto](https://raw.githubusercontent.com/cunham4theus/portfoliov3/main/assets/Img/ezgif.com-gif-maker.gif) 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 </div>
 
@@ -58,7 +58,6 @@ fazendo cursos de programação e pesquisando assuntos relacionadas a tecnologia
 
 ##
 
-<hr>
 
 <div align="center">
  
@@ -77,13 +76,8 @@ fazendo cursos de programação e pesquisando assuntos relacionadas a tecnologia
    
 </div>
 
-##
-
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
 <hr>
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55ed00&size=24&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!+Volte+sempre!)](https://git.io/typing-svg)
 
